@@ -1,3 +1,3 @@
-# ConsoleClock C++ project
+# Console Clock C++ project
 
 refreshing c++ skill 
